@@ -15,8 +15,8 @@ Organizations you may be interested in: [Big Data Research Institute of Wuhan Un
 
 <hr />
 
-💡 In addition to presenting my own existing content, I mainly record and update some of my learning experiences, notes and news.  Interested in these content? Check out  this page: [Go to the blogs](/content/posts/_index.md)
+💡 In addition to presenting my own existing content, I mainly record and update some of my learning experiences, notes and news.  Interested in these content? Check out  this page: [Go to the blogs](/content/posts). Sometimes I post Chinese-written blogs, see my [Chinese personal page](/zh) and [Chinese Blogs](/zh/posts)
 
-💬 If you have interesting ideas , contact me  by this [email](hi.sumeiyao@gmail.com).
+💬 If you have interesting ideas , contact me  by this [email](): hi.sumeiyao@gmail.com.
 
 .

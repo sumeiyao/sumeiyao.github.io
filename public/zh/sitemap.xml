@@ -2,6 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sumeiyao.github.io/zh/docs/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/blog/first-blog/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/docs/%E5%87%BA%E7%89%88%E7%89%A9/%E8%AE%BA%E6%96%87/</loc>
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/docs/%E5%85%B3%E4%BA%8E%E6%88%91/%E6%95%99%E8%82%B2%E7%BB%8F%E5%8E%86/</loc>
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/docs/%E5%87%BA%E7%89%88%E7%89%A9/</loc>
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/docs/%E5%87%BA%E7%89%88%E7%89%A9/%E4%B8%93%E5%88%A9%E5%92%8C%E8%BD%AF%E8%91%97/</loc>
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/docs/%E5%85%B3%E4%BA%8E%E6%88%91/%E7%A0%94%E7%A9%B6%E5%85%B4%E8%B6%A3/</loc>
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/tags/academic-website/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sumeiyao.github.io/tags/academic-website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sumeiyao.github.io/zh/tags/academic-website/"
+                />
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/tags/githubpage/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sumeiyao.github.io/tags/githubpage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sumeiyao.github.io/zh/tags/githubpage/"
+                />
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/tags/Hugo/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sumeiyao.github.io/tags/Hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sumeiyao.github.io/zh/tags/Hugo/"
+                />
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sumeiyao.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sumeiyao.github.io/zh/"
+                />
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/tags/skills/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sumeiyao.github.io/tags/skills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sumeiyao.github.io/zh/tags/skills/"
+                />
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/tags/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sumeiyao.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sumeiyao.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://sumeiyao.github.io/zh/blog/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sumeiyao.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -14,28 +110,16 @@
                 href="https://sumeiyao.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>https://sumeiyao.github.io/zh/</loc>
+    <loc>https://sumeiyao.github.io/zh/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sumeiyao.github.io/"
+                href="https://sumeiyao.github.io/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://sumeiyao.github.io/zh/"
-                />
-  </url><url>
-    <loc>https://sumeiyao.github.io/zh/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumeiyao.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://sumeiyao.github.io/zh/tags/"
+                href="https://sumeiyao.github.io/zh/docs/"
                 />
   </url>
 </urlset>
