@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Sumei Yao</title>
+    <link>https://sumeiyao.github.io/tags/Hugo/</link>
+    <description>Recent content in Hugo on Sumei Yao</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sumeiyao.github.io/tags/Hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A quick way to build academic personal website</title>
+      <link>https://sumeiyao.github.io/posts/first-blog/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://sumeiyao.github.io/posts/first-blog/</guid>
+      <description>Hello everyone, I finally and luckly spent a day to get my personal website set up and I&amp;rsquo;m ready to share my experience with those who need it.&#xA;Basic Concepts and Tool Preparation&#xA;GitHub Pages: Provides hosting for static web pages.&#xA;Hugo: Converts Markdown text into HTML files. The benefit is that you can easily modify code using a Markdown editor without needing to deal directly with complex HTML.&#xA;Installation: It&amp;rsquo;s recommended to install Hugo using brew.</description>
+    </item>
+  </channel>
+</rss>

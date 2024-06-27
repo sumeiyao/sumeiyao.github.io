@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Sumei Yao</title>
+    <link>https://sumeiyao.github.io/</link>
+    <description>Recent content in Introduction on Sumei Yao</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sumeiyao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A quick way to build academic personal website</title>
+      <link>https://sumeiyao.github.io/posts/first-blog/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://sumeiyao.github.io/posts/first-blog/</guid>
+      <description>Hello everyone, I finally and luckly spent a day to get my personal website set up and I&amp;rsquo;m ready to share my experience with those who need it.&#xA;Basic Concepts and Tool Preparation&#xA;GitHub Pages: Provides hosting for static web pages.&#xA;Hugo: Converts Markdown text into HTML files. The benefit is that you can easily modify code using a Markdown editor without needing to deal directly with complex HTML.&#xA;Installation: It&amp;rsquo;s recommended to install Hugo using brew.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sumeiyao.github.io/docs/Publications/Papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sumeiyao.github.io/docs/Publications/Papers/</guid>
+      <description>Journal Publishment (English) # AoSheng Cheng,.. .,Sumei Yao,&amp;hellip;Quan Lu. Prediction of mortality risk based on cost-sensitive and multi-task learning. [J]. International Journal of Medical Informatics, SCI,:Q1, CAS:Q2, 2024, Forthcoming) Sumei Yao,&amp;hellip; Quan Lu*. Enhancing Identification Performance of Cognitive Impairment High-Risk Based on a Semi-Supervised Learning Method*. [J]. Journal of Biomedicla Informatics.( SCI:Q1, CAS:Q2, 2024, Forthcoming) Sumei Yao, Fan Wang, Jing Chen, Quan Lu. &amp;ldquo;Utilizing health-related text on social media for depression research: themes and methods&amp;rdquo;, Library Hi Tech, Vol.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sumeiyao.github.io/docs/AboutMe/Education-and-Honors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sumeiyao.github.io/docs/AboutMe/Education-and-Honors/</guid>
+      <description>Education # 2024.04-2025.04, Exchange Ph.d Student at ETH Zürich, Switherland 2021.09-2024.04, Ph.d Candidate of Wuhan University, China SELECTED GRANTS AND HONORS # China Scholarship Council jointly training doctoral program, July 2024 Outstanding Graduate of Hebei Province, Apr. 2021 National Scholarship for Graduate Student, Dec. 2020 National Scholarship for Graduate Student, Dec. 2019 National Encouragement Scholarship, Sept. 2016 National College Students e-commerce &amp;ldquo;Innovation, Creativity and Entrepreneurship&amp;rdquo; Challenge Final, National Third Prize, Sept.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sumeiyao.github.io/docs/Publications/Patents-and-Softwares/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sumeiyao.github.io/docs/Publications/Patents-and-Softwares/</guid>
+      <description>Patents&#xA;to be continued&amp;hellip;&#xA;Softwares&#xA;Non-motor vehicle driver manned detection and identification system based on deep learning. V1.0. Certificate Number: Soft landing word No. 9896567. Registration number: 2022SR094236 Correct Wearing Mask Detection system in epidemic situation based on deep neural network. V1.0. Certificate Number: Soft landing Word No. 9896575. Registration number: 2022SR0942376. Non-vehicle helmet detection and recognition system based on deep learning. V1.0. Certificate Number: Soft landing word No. 9896595. Registration number: 2022SR0942396.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sumeiyao.github.io/docs/AboutMe/Research-Interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sumeiyao.github.io/docs/AboutMe/Research-Interests/</guid>
+      <description>Research Interests # Key Areas # Extraction, mining, and organization of biomedical literature and user-centric document systems Building stable, robust disease prediction models Analyzing, monitoring, and identifying sentiments, behaviors, and topics of vulnerable populations/patients on social media Types of Data # Full text of Scientific Literatures in large scale Comprehensive electronic health records from hospitals and health organizations Disease-related posts and behavioral data from largeß-scale social media platforms Research Methodology # I lean towards quantitative approaches, integrating techniques such as :</description>
+    </item>
+  </channel>
+</rss>

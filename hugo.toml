@@ -1,0 +1,56 @@
+baseURL =  "https://sumeiyao.github.io"
+languageCode = 'en-us'
+title = 'Sumei Yao'
+theme = 'hugo-book'
+
+
+
+googleAnalytics = "UA-XXXXXXXXX-X"
+disqusShortname = "my-site"
+disablePathToLower = true
+enableGitInfo = false
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
+
+
+[languages.zh]
+  languageName = 'Chinese'
+  contentDir = 'content.zh'
+  weight = 2
+
+
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.tableOfContents]
+  startLevel = 1
+
+
+
+[menu]
+[[menu.after]]
+name = "Github"
+url = "https://github.com/sumeiyao"
+weight = 10
+
+[[menu.after]]
+name = "Google Scholor"
+url = "https://scholar.google.com.hk/citations?hl=zh-CN&user=fslq830AAAAJ"
+weight = 20
+
+
+
+[params]
+    BookTheme = 'light'
+    BookToC = true
+    BookSection = 'docs'
+    BookEditPath = '/Users/ysm/ysmWebsite/'
+
+
+
+
