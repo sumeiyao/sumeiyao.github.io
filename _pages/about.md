@@ -117,7 +117,21 @@ International Journal of Medical Informatics
 
 # 🌍 Services
 
-Invited as reviewer: [ICLR 2026](https://iclr.cc/Conferences/2026), [EMBC 2025](https://embc.embs.org/2025/), [AI4MATH @ ICML 2025](https://sites.google.com/view/ai4mathworkshopicml2025)
+Senior Reviewer for Springer Nature (2024-), undertaking review work for top international journals:
+
+- [Nature Medicine](https://www.nature.com/nmed/) (SCI Q1, CAS Q1, Top Journal, IF: 50.0, Invited Review)
+- [Nature Methods](https://www.nature.com/nmeth/) (SCI Q1, CAS Q1, Top Journal, IF: 32.1)
+- [Nature Human Behaviour](https://www.nature.com/nhumbehav/) (SCI Q1, CAS Q1, Top Journal, IF: 15.9)
+- [Nature Communications](https://www.nature.com/ncomm/) (SCI Q1, CAS Q1, Top Journal, IF: 15.7)
+- [Artificial Intelligence Review](https://link.springer.com/journal/10462) (SCI Q1, CAS Q1, Top Journal, IF: 13.9)
+- [BMC Geriatrics](https://bmcgeriatr.biomedcentral.com/) (SCI/SSCI Q1, CAS Q2, Top Journal, IF: 3.9)
+- [Scientific Reports](https://www.nature.com/srep) (SCI Q1, CAS Q2, IF: 3.9)
+- [BMC Medical Informatics and Decision Making](https://bmcmedinformmedec.biomedcentral.com/) (SCI Q2, CAS Q3, IF: 3.8)
+- [BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (SCI Q1, CAS Q2, Top Journal, IF: 3.6)
+- [Humanities and Social Sciences Communications](https://www.nature.com/hsscomm/) (SCI/SSCI Q1, CAS Q2, IF: 3.6)
+- [Quality of Life Research](https://link.springer.com/journal/11136) (SCI Q2, CAS Q3, IF: 3.3)
+- [Discover Mental Health](https://www.nature.com/discovermentalhealth/) (SCI Q2, CAS Q3, IF: 3.2)
+- [npj Mental Health Research](https://www.nature.com/npjmentalhealth/) (SCI Q2, CAS Q3, IF: 3.1)
 
 <style>
 .experience-box {
