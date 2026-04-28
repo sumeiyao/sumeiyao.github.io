@@ -39,8 +39,6 @@ My research interests include literature knowledge discovery, automated medical 
 - *2023.06*: *Utilizing health-related text on social media for depression research: themes and methods* is accepted by  *Library Hi Tech*🎉
 
 # 📝 Selected Publications 
-_<sup>*</sup> denotes equal contribution_
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="width:100%; height:120px; overflow:hidden;">
@@ -64,7 +62,7 @@ _*Journal of The China Society for Scientific and Technical Information_（情�
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div style="width:100%;height:120px;overflow:hidden;">
+<div style="width:100%;height:150px;overflow:hidden;">
 <div class="badge">JBI 2024</div>
 <img src='../images/semi-supervised.png' alt="sym" style="width:100%;height:100%;object-fit:cover;">
 </div>
@@ -85,7 +83,7 @@ _Journal of Biomedical Informatics,2024_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div style="width:100%;height:120px;overflow:hidden;"><div class="badge">LHT 2023</div><img src='../images/lht.png' alt="sym" style="width:100%;height:100%;object-fit:cover;"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div style="width:100%;height:150px;overflow:hidden;"><div class="badge">LHT 2023</div><img src='../images/lht.png' alt="sym" style="width:100%;height:100%;object-fit:cover;"></div></div><div class='paper-box-text' markdown="1">
 
 **Utilizing health-related text on social media for depression research: themes and methods**
 
@@ -99,7 +97,7 @@ _Journal of Biomedical Informatics,2024_
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div style="width:100%;height:120px;overflow:hidden;"><div class="badge">IJMI 2024</div><img src='../images/multi-task.png' alt="sym" style="width:100%;height:100%;object-fit:cover;"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div style="width:100%;height:150px;overflow:hidden;"><div class="badge">IJMI 2024</div><img src='../images/multi-task.png' alt="sym" style="width:100%;height:100%;object-fit:cover;"></div></div><div class='paper-box-text' markdown="1">
 
 **Integrating multi-task and cost-sensitive learning for predicting mortality risk of chronic diseases in the elderly using real-world data**
 
@@ -206,19 +204,20 @@ Advisor: [Prof. Quan Lu](https://sim.whu.edu.cn/info/1631/13987.htm)
 # 🎖 Selected Honors and Awards
 - *2024* Second Prize, Wuhan University Academic Innovation Award.
 - *2021.04* Outstanding Graduate, Hebei Province.
-- *2021.01* Outstanding Graduate, Yanshan University.
+- *2021.01* Outstanding Graduate, YanShan University.
 - *2020.11* Second Prize in Hebei Provincial MBA Entrepreneurship Planning Competition.
 - *2019.11* Provincial Silver Award , 5th Hebei Provincial Internet Plus Innovation Competition.
 - *2019.09* **National Third Prize** , 9th National College Students Innovation and Entrepreneurship Competition.🥇
 - *2019–2020* **National Postgraduate Scholarship**, China.🥇
 - *2018–2019* **National Postgraduate Scholarship**, China.🥇
-- *2018–2019* Merit Student, Yanshan University.
+- *2018–2019* Merit Student, YanShan University.
 - *2015–2016* **National Inspirational Scholarship**, China.🥇
 
 # 🌈 Miscellaneous
 
-Apart from academic studies and research, I have a wide range of interests, including piano and singing.
+Apart from academic studies and research, I have a wide range of interests.
 
 - 💃 I love dancing Latin dance, **Rumba** especially, but only at an amateur level.
 - 💻 I enjoy developing interesting small software and writing them into software copyrights.
--  🚶🏿‍♂Besides, I like hiking and traveling✈︎, and the scenery of the Alps🏔 is always fascinating.
+-  Besides, I like hiking 🚣and traveling✈︎, and the scenery of the Alps🏔 is always fascinating.
+
