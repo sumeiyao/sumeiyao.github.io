@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jizhou Guo"
+title                    : "Sumei Yao"
 description              : ""
 repository               : "sumeiyao/sumeiyao.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jizhou Guo"
+  name             : "Sumei Yao"
   avatar           : "images/avatar.jpg"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "Wuhan University"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=fcBDdsYAAAAJ"
-  email            : "sjtu18640985163@sjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jizhou-Guo"
+  googlescholar    : "https://scholar.google.com/citations?user=fslq830AAAAJ&hl=zh-CN"
+  email            : "hi.sumeiyao@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Jizhou-Guo"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,15 +43,15 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jizhou-guo-6971b6277" # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/378/4049.html"
-  orcid            : "https://orcid.org/0009-0001-0699-9164"
+  linkedin         : #"jizhou-guo-6971b6277" # e.g., "linkedin username"
+  dblp             : #"https://dblp.org/pid/378/4049.html"
+  orcid            : #"https://orcid.org/0009-0001-0699-9164"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TheOsmanthus"
+  twitter          : #"TheOsmanthus"
   vine             :
   weibo            :
   xing             :
