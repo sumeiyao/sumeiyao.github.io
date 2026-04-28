@@ -56,7 +56,7 @@ _*Journal of The China Society for Scientific and Technical Information_（情�
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBI 2024</div><img src='images/semi-supervised.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBI 2024</div><img src='images/semi-supervised.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Enhancing identification performance of cognitive impairment high-risk based on a semi-supervised learning method**
@@ -71,16 +71,34 @@ _Journal of Biomedical Informatics,2024_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LHT 2023</div><img src='images/lht.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LHT 2023</div><img src='images/lht.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 **Utilizing health-related text on social media for depression research: themes and methods**
 
 **Yao, Sumei**; Wang, Fan; Chen, Jing; Lu, Quan
 
-[[arXiv]]([Utilizing health-related text on social media for depression research: themes and methods - ProQuest](https://www.proquest.com/docview/3162627467/52E22C515804702PQ/1?accountid=15157&sourcetype=Scholarly Journals))
+[[PDF]]([Utilizing health-related text on social media for depression research: themes and methods - ProQuest](https://www.proquest.com/docview/3162627467/52E22C515804702PQ/1?accountid=15157&sourcetype=Scholarly Journals))
 
 <small>In depression research based on user-generated content, this study identifies 14 research topics and six research methods.</small>
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMI 2024 </div><img src='images/multi-task.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Integrating multi-task and cost-sensitive learning for predicting mortality risk of chronic diseases in the elderly using real-world data**
+
+Aosheng Cheng, Yan Zhang, Zhiqiang Qian, Xueli Yuan, **Sumei Yao**, Wenqing Ni, Yijin Zheng, Hongmin Zhang, Quan Lu, Zhiguang Zhao
+
+International Journal of Medical Informatics
+
+[[PDF]]([[利用真实世界数据整合多任务和成本敏感学习，预测老年人慢性病的死亡风险——ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1386505624002302#f0005)))
+
+<small>Multi-task framework captures complex relationships of multiple chronic diseases; Accurate mortality risk prediction for real-world elderly populations; Deep learning exhibits strong performance on large-scale tabular data.</small>
 </div>
 </div>
 
