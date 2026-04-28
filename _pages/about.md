@@ -41,9 +41,8 @@ My research interests include literature knowledge discovery, automated medical 
 # 📝 Selected Publications 
 _<sup>*</sup> denotes equal contribution_
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">情报学报 2024</div><img src='images/qingbaoxuebao.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">情报学报 2024</div><img src='images/qingbaoxuebao.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 **Data and Knowledge Driven Knowledge Discovery: Concept, Mechanism and Model(数据与知识协同驱动的知识发现：概念、机理与模式**
 
@@ -57,7 +56,7 @@ _*Journal of The China Society for Scientific and Technical Information_（情�
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBI 2024</div><img src='images/semi-supervised.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBI 2024</div><img src='images/semi-supervised.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Enhancing identification performance of cognitive impairment high-risk based on a semi-supervised learning method**
@@ -72,7 +71,7 @@ _Journal of Biomedical Informatics,2024_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LHT 2023</div><img src='images/lht.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LHT 2023</div><img src='images/lht.JPG' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Utilizing health-related text on social media for depression research: themes and methods**
