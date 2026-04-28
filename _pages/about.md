@@ -17,50 +17,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a 4th-year undergraduate at Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University.
+Hi! I am Yao Sumei, a doctoral candidate in Information Science at the School of Information Management, Wuhan University (Expected 2026).
+Most recently, I pursued joint research at ETH Zürich under the supervision of <a href="https://mte.ethz.ch/people/person-detail.html?persid=14938">Prof. Dr. Peter Egger</a>, <a href="https://www.susierao.com/">Dr. Susie Xi Rao</a> and <a href="https://mte.ethz.ch/people/person-detail.html?persid=15026">Prof. Dr. Elgar Fleisch</a>. Before that, I have been conducting research at Wuhan University guided by <a href="https://im.whu.edu.cn/info/1015/1362.htm">Prof. Quan Lu</a>.
 
-Most recently, I was mentored by <a href="https://cs.uic.edu/profiles/philip-yu/">Prof. Philip S. Yu</a> at the University of Illinois Chicago.
-Before that, I was a research intern at the National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>.
-Prior to that, I was mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a> at SJTU.
-I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a> and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>.
+My work has been published in numerous SSCI, SCI and CSSCI core journals, and I am currently a senior reviewer for a wide range of top-tier Springer Nature journals. Beyond research, I have won multiple national scholarships and academic awards throughout my studies.
 
-My work has been published at venues such as KDD, EMNLP (main), NeurIPS, and ICLR (Oral), and I was invited as a reviewer for conferences including ICLR 2026. Beyond research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC, and other contests under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>.
-
-My research interests include LLMs, agentic systems, privacy and safety, and efficient ML. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
+My research interests include literature knowledge discovery, automated medical systematic review, and machine learning.  I am always eager to engage in academic discussions and research cooperation. Feel free to reach out if you'd like to chat!
 
 <p style="text-align: center;">
-<a href="mailto:sjtu18640985163@sjtu.edu.cn">Email</a> / 
-<a href="https://www.linkedin.com/in/jizhou-guo-6971b6277">LinkedIn</a> / 
+<a href="mailto:hi.sumeiyao@gmail.com">Email</a> / 
 <a href="images/wechat.jpg">WeChat</a> /
 <a href="images/qq.jpg">QQ</a> /
 <a href="images/xiaohongshu.jpg">Xiaohongshu (RedNote)</a> /
-<a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a>
 </p>
 
+
 # 🔥 News
-- *2026.04*: &nbsp; <a href="https://arxiv.org/abs/2510.10994">DeepResearchGuard</a> and _LLM-HAS Survey_ are accepted to ACL 2026! 🎉
-- *2026.03*: &nbsp; _Self-Supervised EEG-based Emotion Recognition_ is selected as ICASSP 2026 <span style="color: #8B0000;">Oral</span>!
-- *2026.02*: &nbsp; <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> is selected as ICLR 2026 <span style="color: #8B0000;">Oral</span> (Top 1%)!
-- *2026.01*：&nbsp; <a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is featured by <a href="https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg">AI Era (新智元)</a>.
-- *2026.01*: &nbsp; <a href="https://arxiv.org/abs/2510.06186">RECODE-H</a> and <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> are accepted to ICLR 2026! 🎉
-- *2026.01*: &nbsp; _Self-Supervised EEG-based Emotion Recognition_ is accepted to ICASSP 2026! 🎉
-- *2025.11*: &nbsp; 🎉<a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is accepted to KDD 2026! 🎉
-- *2025.09*: &nbsp; <a href="https://arxiv.org/abs/2509.23614">PSG-Agent</a> is on arXiv!
-- *2025.08*: &nbsp; 🎉<a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is accepted to EMNLP 2025 main conference! 🎉
-- *2025.04*: &nbsp; <a href="https://pubmed.ncbi.nlm.nih.gov/41335954/">EEG Cross-Stimulus Transfer Learning</a> is accepted to EMBC 2025! 🎉
-- *2024.09*: &nbsp; <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
+- *2025.04*: &nbsp; *[Data and Knowledge Driven Knowledge Discovery: Concept, Mechanism and Model](https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2025.03.003)* is accepted to  *Journal of The China Society for Scientific and Technical Information*! 🎉
+- *2024.07*:  *[Enhancing identification performance of cognitive impairment high-risk based on a semi-supervised learning method](https://www.sciencedirect.com/science/article/pii/S1532046424001175)* is selected [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)!🎉
+- *2024.07*:  *[Integrating multi-task and cost-sensitive learning for predicting mortality risk of elderly chronic diseases](https://pubmed.ncbi.nlm.nih.gov/39068894/)* is accepted to [International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)!🎉
+- *2023.06*: *Utilizing health-related text on social media for depression research: themes and methods* is accepted by  *Library Hi Tech*🎉
 
 # 📝 Selected Publications 
 _<sup>*</sup> denotes equal contribution_
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">情报学报</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Mining Intrinsic Rewards from LLM Hidden States for Efficient Best-of-N Sampling**
+**Data and Knowledge Driven Knowledge Discovery: Concept, Mechanism and Model(数据与知识协同驱动的知识发现：概念、机理与模式**
 
-**Jizhou Guo**, Zhaomin Wu, Hanchen Yang, Philip S. Yu
+**Sumei Yao**, Quan Lu
 
-_KDD 2026_
+_*Journal of The China Society for Scientific and Technical Information_（情报学报)
 
 [[arXiv]](https://arxiv.org/abs/2505.12225) [[code]](https://github.com/aster2024/SWIFT) [[HF Daily]](https://huggingface.co/papers/2505.12225) [[AI Era (新智元)]](https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg)
 
@@ -129,55 +117,55 @@ _NeurIPS 2024_
 </div>
 </div>
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/dann.png' alt="sym" width="60%"></div></div>)
+[//]: # "<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/dann.png' alt="sym" width="60%"></div></div>"
 
-[//]: # (<div class='paper-box-text' markdown="1">)
+[//]: # "<div class='paper-box-text' markdown="1">"
 
-[//]: # (**Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**)
+[//]: # "**Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**"
 
-[//]: # ()
-[//]: # (Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng)
+[//]: #
+[//]: # "Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng"
 
-[//]: # ()
-[//]: # (_EMBC 2025_)
+[//]: #
+[//]: # "_EMBC 2025_"
 
-[//]: # ()
-[//]: # (<small>Adopted Transformer-based Domain-Adversarial Neural Network &#40;DANN&#41; for cross-stimulus transfer learning task between olfactory and visual-auditory stimuli and outperformed conventional methods.</small>)
+[//]: #
+[//]: # "<small>Adopted Transformer-based Domain-Adversarial Neural Network &#40;DANN&#41; for cross-stimulus transfer learning task between olfactory and visual-auditory stimuli and outperformed conventional methods.</small>"
 
-[//]: # (</div>)
+[//]: # "</div>"
 
-[//]: # (</div>)
+[//]: # "</div>"
 
-[//]: # ()
-[//]: # (In addition, I have also completed several projects. Please refer to my [CV]&#40;assets/pdf/CV_Jizhou_Guo.pdf&#41; for further details.)
+[//]: #
+[//]: # "In addition, I have also completed several projects. Please refer to my [CV]&#40;assets/pdf/CV_Jizhou_Guo.pdf&#41; for further details."
 
 
-[//]: # (# 📚 Selected Projects)
+[//]: # "# 📚 Selected Projects"
 
-[//]: # ()
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><img src='images/2aRNN_model.png' alt="sym" width="100%"></div></div>)
+[//]: #
+[//]: # "<div class='paper-box'><div class='paper-box-image'><div><img src='images/2aRNN_model.png' alt="sym" width="100%"></div></div>"
 
-[//]: # (<div class='paper-box-text' markdown="1">)
+[//]: # "<div class='paper-box-text' markdown="1">"
 
-[//]: # ()
-[//]: # (**Two-Area RNN: Representations for Context-Dependent Decisions**)
+[//]: #
+[//]: # "**Two-Area RNN: Representations for Context-Dependent Decisions**"
 
-[//]: # ()
-[//]: # (**Jizhou Guo**, Liting Pang, Zhaoyu Zhu, Ziyi Xu)
+[//]: #
+[//]: # "**Jizhou Guo**, Liting Pang, Zhaoyu Zhu, Ziyi Xu"
 
-[//]: # ()
-[//]: # ([[PDF]]&#40;assets/pdf/2aRNN_report.pdf&#41; [[code]]&#40;https://github.com/aster2024/2aRNN&#41;)
+[//]: #
+[//]: # "[[PDF]]&#40;assets/pdf/2aRNN_report.pdf&#41; [[code]]&#40;https://github.com/aster2024/2aRNN&#41;"
 
-[//]: # ()
-[//]: # (- Proposed a novel **Two-Area RNN** architecture for context-dependent decision-making tasks.)
+[//]: #
+[//]: # "- Proposed a novel **Two-Area RNN** architecture for context-dependent decision-making tasks."
 
-[//]: # ()
-[//]: # (</div>)
+[//]: #
+[//]: # "</div>"
 
-[//]: # (</div>)
+[//]: # "</div>"
 
-[//]: # ()
-[//]: # (Beyond this project, I have also completed work on SplitNN implementation, a review of AlphaGo, and validation of the Frequency Principle. Please refer to my [CV]&#40;assets/pdf/CV_Jizhou_Guo.pdf&#41; for further details.)
+[//]: #
+[//]: # "Beyond this project, I have also completed work on SplitNN implementation, a review of AlphaGo, and validation of the Frequency Principle. Please refer to my [CV]&#40;assets/pdf/CV_Jizhou_Guo.pdf&#41; for further details."
 
 # 🌍 Services
 
