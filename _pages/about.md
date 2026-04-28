@@ -177,7 +177,9 @@ Senior Reviewer for Springer Nature (2024-), undertaking review work for top int
 ### Eidgenössische Technische Hochschule Zürich
 
 2024.04 - 2025.04  
+
 Research Guest 
+
 Advisor: [Prof. Dr. Peter Egger](https://mtec.ethz.ch/people/person-detail.MTY2NTM0.TGlzdC8xMDUwLC0yMDgyMjgwMDQ4.html), <a href="https://www.susierao.com/">Dr. Susie Xi Rao</a>
 
   </div>
@@ -193,43 +195,30 @@ Advisor: [Prof. Dr. Peter Egger](https://mtec.ethz.ch/people/person-detail.MTY2N
 ###  Wuhan University
 
 2021.09 - 2026.06  
+
 Ph.D Candidate  
-Advisor: [Quan Lu](https://sim.whu.edu.cn/info/1631/13987.htm)
+
+Advisor: [Prof. Quan Lu](https://sim.whu.edu.cn/info/1631/13987.htm)
 
   </div>
 </div>
 
 # 🎖 Selected Honors and Awards
-_Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
-
-- *2025.12* Zhiyuan Honors Scholarship.
-- *2025.12* Academic Excellence Scholarship, SJTU (Top 10%, ranked 2nd overall).
-- *2025.10* Zhiyuan Overseas Research Scholarship.
-- *2025.09* Merit Student of SJTU.
-- *2025.01* <strong> Gold Award🥇 </strong> and <strong> First Runner-up </strong> in the National College Students' Career Planning Contest (Shanghai Region).
-- *2024.12* Zhiyuan Honors Scholarship.
-- *2024.11* Zhiyuan <strong>First-Class</strong> Overseas Research Scholarship.
-- *2024.09* Merit Student of SJTU.
-- *2023.12* Academic Excellence Scholarship, SJTU (Top 10%, ranked 2nd overall).
-- *2023.12* Zhiyuan Honors Scholarship.
-- *2023.12* Third Prize in Mathematics competition of Chinese College Students (Shanghai).
-- *2023.09* <strong> First Prize </strong> in Shanghai Collegiate Programming Contest (Ranked 2nd in Shanghai).
-- *2023.08* <strong> Gold Award🥇 </strong> in Astar Programming Contest (Shanghai Region) (Ranked 2nd in Shanghai).
-- *2023.05* <strong> Gold Medal🥇 </strong> in 2023 China Collegiate Programming Contest (<strong>CCPC</strong>) National Invitational Contest (Hunan).  
-- *2023.05* <strong> Gold Medal🥇 </strong> in 2023 International Collegiate Programming Contest (<strong>ICPC</strong>) Xi'an Invitational Contest.
-- *2022.12* Zhiyuan Honors Scholarship.
-- *2022.12* <strong> Gold Medal🥇 </strong> in 2022 International Collegiate Programming Contest (<strong>ICPC</strong>) Asia Hangzhou Regional Contest (Ranked 8th nationwide).
-- *2022.09* <strong> Gold Medal🥇 </strong> in 2022 China Collegiate Programming Contest (<strong>CCPC</strong>) (Shanghai region).
-- *2021.07* <strong> Silver Medal🥈 </strong> in National Olympiad in Informatics (<strong>NOI</strong>).
-- *2021.03* <strong> Ranked 22nd nationwide </strong> in National Olympiad in Informatics (<strong>NOI</strong>) Online Senior Group.
+- *2024* Second Prize, Wuhan University Academic Innovation Award.
+- *2021.04* Outstanding Graduate, Hebei Province.
+- *2021.01* Outstanding Graduate, Yanshan University.
+- *2020.11* Second Prize in Hebei Provincial MBA Entrepreneurship Planning Competition.
+- *2019.11* Provincial Silver Award , 5th Hebei Provincial Internet Plus Innovation Competition.
+- *2019.09* **National Third Prize** , 9th National College Students Innovation and Entrepreneurship Competition.🥇
+- *2019–2020* **National Postgraduate Scholarship**, China.🥇
+- *2018–2019* **National Postgraduate Scholarship**, China.🥇
+- *2018–2019* Merit Student, Yanshan University.
+- *2015–2016* **National Inspirational Scholarship**, China.🥇
 
 # 🌈 Miscellaneous
 
 Apart from academic studies and research, I have a wide range of interests, including piano and singing.
 
-- I enjoy playing the piano🎹 and have passed <a href="https://www.abrsm.org/">ABRSM</a> Practical Grade 8 and <a href="https://kjzx.ccmusic.edu.cn/">CCM</a> Amateur Grade 10, both the highest levels. I've also won awards in several piano competitions.
-- I am passionate about singing🎤 and have passed <a href="https://kjzx.ccmusic.edu.cn/">CCM</a> Amateur Grade 9 (highest level).
-- I used to serve as the conductor of the choir in junior high school.
-- I also have some experience in public speaking🗣️ and won Gold Award🥇 in the National College Students' Career Planning Contest (Shanghai Region).
-- Regarding sports, I'm an amateur enthusiast of jogging🏃 and skiing⛷️.
-- I have participated in various algorithm competitions🖥️ and earned Gold Medals🥇 in ICPC/CCPC and a Silver Medal🥈 in NOI.
+- 💃 I love dancing Latin dance, **Rumba** especially, but only at an amateur level.
+- 💻 I enjoy developing interesting small software and writing them into software copyrights.
+-  🚶🏿‍♂Besides, I like hiking and traveling✈︎, and the scenery of the Alps🏔 is always fascinating.
