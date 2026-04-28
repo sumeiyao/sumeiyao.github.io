@@ -119,7 +119,7 @@ International Journal of Medical Informatics
 
 Senior Reviewer for Springer Nature (2024-), undertaking review work for top international journals:
 
-- [Nature Medicine](https://www.nature.com/nmed/) (SCI Q1, CAS Q1, Top Journal, IF: 50.0, Invited Review)
+- [Nature Medicine](https://www.nature.com/nmed/) (SCI Q1, CAS Q1, Top Journal, IF: 50.0, Invited Co-Review)
 - [Nature Methods](https://www.nature.com/nmeth/) (SCI Q1, CAS Q1, Top Journal, IF: 32.1)
 - [Nature Human Behaviour](https://www.nature.com/nhumbehav/) (SCI Q1, CAS Q1, Top Journal, IF: 15.9)
 - [Nature Communications](https://www.nature.com/ncomm/) (SCI Q1, CAS Q1, Top Journal, IF: 15.7)
@@ -169,75 +169,32 @@ Senior Reviewer for Springer Nature (2024-), undertaking review work for top int
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/uic_logo.png" alt="UIC logo">
+    <img src="../images/eth.png" alt="eth logo">
   </div>
   <div class="experience-text" markdown="1">
 
-### University of Illinois Chicago
 
-2025.06 - 2025.08  
-Research Assistant  
-Advisor: [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
+### Eidgenössische Technische Hochschule Zürich
+
+2024.04 - 2025.04  
+Research Guest 
+Advisor: [Prof. Dr. Peter Egger](https://mtec.ethz.ch/people/person-detail.MTY2NTM0.TGlzdC8xMDUwLC0yMDgyMjgwMDQ4.html), <a href="https://www.susierao.com/">Dr. Susie Xi Rao</a>
 
   </div>
 </div>
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/nus_logo.jpeg" alt="NUS logo">
+    <img src="../images/whu.png" alt="whu logo">
   </div>
   <div class="experience-text" markdown="1">
 
-### National University of Singapore
 
-2024.06 - 2024.08  
-Research Assistant  
-Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
+###  Wuhan University
 
-  </div>
-</div>
-
-<div class="experience-box">
-  <div class="experience-image">
-    <img src="images/pku_logo.jpeg" alt="PKU logo">
-  </div>
-  <div class="experience-text" markdown="1">
-
-### Peking University
-
-2023.07  
-Student Trainee  
-Quantitative Biology Summer School of [Center for Life Sciences](http://www.cls.edu.cn/) (50 candidates nationwide)
-
-  </div>
-</div>
-
-<div class="experience-box">
-  <div class="experience-image">
-    <img src="images/tencent_logo.jpeg" alt="Tencent logo">
-  </div>
-  <div class="experience-text" markdown="1">
-
-### Tencent Corporation
-
-2022.08  
-Research Intern  
-Spark Project (AI group) (50 high-school students with talents nationwide)
-
-  </div>
-</div>
-
-<div class="experience-box">
-  <div class="experience-image">
-    <img src="images/sjtu_logo.jpeg" alt="SJTU logo">
-  </div>
-  <div class="experience-text" markdown="1">
-
-### Shanghai Jiao Tong University
-
-2022.09 - Present  
-Bachelor of Science in Mathematics with <strong>Honors</strong>, [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/)  
-Research Advisors: [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/)
+2021.09 - 2026.06  
+Ph.D Candidate  
+Advisor: [Quan Lu](https://sim.whu.edu.cn/info/1631/13987.htm)
 
   </div>
 </div>
