@@ -41,8 +41,9 @@ My research interests include literature knowledge discovery, automated medical 
 # 📝 Selected Publications 
 _<sup>*</sup> denotes equal contribution_
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">情报学报</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">情报学报 2024</div><img src='images/qingbaoxuebao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 **Data and Knowledge Driven Knowledge Discovery: Concept, Mechanism and Model(数据与知识协同驱动的知识发现：概念、机理与模式**
 
@@ -50,122 +51,41 @@ _<sup>*</sup> denotes equal contribution_
 
 _*Journal of The China Society for Scientific and Technical Information_（情报学报)
 
-[[arXiv]](https://arxiv.org/abs/2505.12225) [[code]](https://github.com/aster2024/SWIFT) [[HF Daily]](https://huggingface.co/papers/2505.12225) [[AI Era (新智元)]](https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg)
+[[PDF]](https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2025.03.003)
 
-<small>Proposed SWIFT, a lightweight reward model based on the LLM hidden states, which systematically outperforms baselines with less than 0.005% of the parameters of baselines.</small>
+<small>It proposes the concepts of defective data and uncertain knowledge, establishes the two-way collaborative mechanism, and systematically elaborates three categories of typical collaborative modeling modes: knowledge-driven (construction and correction modes), data-driven (embedding、 guiding and correction modes), and other collaborative discovery modes (hybrid and concurrent modes).</small>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 main</div><img src='images/llamdex.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBI 2024</div><img src='images/semi-supervised.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Model-based Large Language Model Customization as Service**
+**Enhancing identification performance of cognitive impairment high-risk based on a semi-supervised learning method**
 
-Zhaomin Wu\*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
+**Sumei Yao** , Yan Zhang, Jing Chen，Quan Lu, Zhiguang Zhao
 
-_EMNLP 2025 main_
+_Journal of Biomedical Informatics,2024_
 
-[[arXiv]](https://arxiv.org/abs/2410.10481) [[code]](https://github.com/Xtra-Computing/Llamdex)
+[[PDF]](https://arxiv.org/abs/2410.10481) 
 
-<small>Proposed Llamdex, a novel framework that facilitates LLM customization as a service for domain-specific applications. It boosted accuracy by up to 26% while preserving privacy.</small>
+<small>This study designs a semi-supervised learning algorithm and compares it with 14 traditional supervised machine learning methods and other advanced semi-supervised algorithms to identify high-risk cognitive impairment.</small>
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/psg_agent.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LHT 2023</div><img src='images/lht.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**PSG-Agent: Personality-Aware Safety Guardrail for LLM-based Agents**
+**Utilizing health-related text on social media for depression research: themes and methods**
 
-Yaozu Wu\*,  **Jizhou Guo**\*, Dongyuan Li\*, Henry Peng Zou, Wei-Chieh Huang, Yankai Chen, Zhen Wang, Weizhi Zhang, Yangning Li, Meng Zhang, Renhe Jiang, Philip S. Yu
+**Yao, Sumei**; Wang, Fan; Chen, Jing; Lu, Quan
 
-_Under review_
+[[arXiv]]([Utilizing health-related text on social media for depression research: themes and methods - ProQuest](https://www.proquest.com/docview/3162627467/52E22C515804702PQ/1?accountid=15157&sourcetype=Scholarly Journals))
 
-[[arXiv]](https://arxiv.org/abs/2509.23614)
-
-<small>Introduces PSG-Agent, a training-free system that provides personalized safety guardrails for LLM-based agents.</small>
+<small>In depression research based on user-generated content, this study identifies 14 research topics and six research methods.</small>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Oral</div><img src='images/llm_dna.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**LLM DNA: Tracing Model Evolution via Functional Representations**
-
-Zhaomin Wu, Haodong Zhao, Ziyang Wang, **Jizhou Guo**, Qian Wang, Bingsheng He
-
-_ICLR 2026 <span style="color: #8B0000;">Oral</span> (Top 1%)_
-
-[[arXiv]](https://arxiv.org/abs/2509.24496)
-
-<small>Introduced LLM DNA, a mathematically grounded, low-dimensional functional representation for LLMs. We developed RepTrace, a training-free pipeline that extracts DNA signatures to trace the evolutionary lineage of 305+ models.</small>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/internal_consistency.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Calibrating Reasoning in Language Models with Internal Consistency**
-
-Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
-
-_NeurIPS 2024_
-
-[[arXiv]](https://arxiv.org/abs/2405.18711) [[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93260.png) [[code]](https://github.com/zhxieml/internal-consistency)
-
-<small>Proposed "internal consistency" approach to calibrate reasoning in LLMs, resulting in a significant boost in reasoning performance without requiring additional training.</small>
-</div>
-</div>
-
-[//]: # "<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/dann.png' alt="sym" width="60%"></div></div>"
-
-[//]: # "<div class='paper-box-text' markdown="1">"
-
-[//]: # "**Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**"
-
-[//]: #
-[//]: # "Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng"
-
-[//]: #
-[//]: # "_EMBC 2025_"
-
-[//]: #
-[//]: # "<small>Adopted Transformer-based Domain-Adversarial Neural Network &#40;DANN&#41; for cross-stimulus transfer learning task between olfactory and visual-auditory stimuli and outperformed conventional methods.</small>"
-
-[//]: # "</div>"
-
-[//]: # "</div>"
-
-[//]: #
-[//]: # "In addition, I have also completed several projects. Please refer to my [CV]&#40;assets/pdf/CV_Jizhou_Guo.pdf&#41; for further details."
-
-
-[//]: # "# 📚 Selected Projects"
-
-[//]: #
-[//]: # "<div class='paper-box'><div class='paper-box-image'><div><img src='images/2aRNN_model.png' alt="sym" width="100%"></div></div>"
-
-[//]: # "<div class='paper-box-text' markdown="1">"
-
-[//]: #
-[//]: # "**Two-Area RNN: Representations for Context-Dependent Decisions**"
-
-[//]: #
-[//]: # "**Jizhou Guo**, Liting Pang, Zhaoyu Zhu, Ziyi Xu"
-
-[//]: #
-[//]: # "[[PDF]]&#40;assets/pdf/2aRNN_report.pdf&#41; [[code]]&#40;https://github.com/aster2024/2aRNN&#41;"
-
-[//]: #
-[//]: # "- Proposed a novel **Two-Area RNN** architecture for context-dependent decision-making tasks."
-
-[//]: #
-[//]: # "</div>"
-
-[//]: # "</div>"
-
-[//]: #
-[//]: # "Beyond this project, I have also completed work on SplitNN implementation, a review of AlphaGo, and validation of the Frequency Principle. Please refer to my [CV]&#40;assets/pdf/CV_Jizhou_Guo.pdf&#41; for further details."
 
 # 🌍 Services
 
