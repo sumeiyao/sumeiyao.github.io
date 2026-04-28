@@ -71,7 +71,7 @@ _Journal of Biomedical Informatics,2024_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LHT 2023</div><img src='images/lht.JPG' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LHT 2023</div><img src='images/lht.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Utilizing health-related text on social media for depression research: themes and methods**
