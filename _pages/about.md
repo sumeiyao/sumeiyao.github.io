@@ -45,7 +45,7 @@ My research interests include literature knowledge discovery, automated medical 
   <div class='paper-box-image'>
     <div style="width:100%; height:120px; overflow:hidden;">
       <div class="badge">情报学报 2024</div>
-      <img src='../images/qingbaoxuebao.png' style="width:100%;height:100%;object-fit:cover;">
+      <img src='../images/qingbaoxuebao.png' alt="sym" style="width:100%; height:auto; object-fit:contain; max-height:150px;">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -66,10 +66,12 @@ _*Journal of The China Society for Scientific and Technical Information_（情�
 <div class='paper-box-image'>
 <div style="width:100%;height:150px;overflow:hidden;">
 <div class="badge">JBI 2024</div>
-<img src='../images/semi-supervised.png' alt="sym" style="width:100%;height:100%;object-fit:cover;">
+<img src='../images/semi-supervised.png' alt="sym" 
+style="width:100%; height:auto; object-fit:contain; max-height:150px;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
+
 
 
 
@@ -85,7 +87,8 @@ _Journal of Biomedical Informatics,2024_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div style="width:100%;height:150px;overflow:hidden;"><div class="badge">LHT 2023</div><img src='../images/lht.png' alt="sym" style="width:100%;height:100%;object-fit:cover;"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div style="width:100%;height:150px;overflow:hidden;"><div class="badge">LHT 2023</div><img src='../images/lht.png' alt="sym" 
+style="width:100%; height:auto; object-fit:contain; max-height:150px;"></div></div><div class='paper-box-text' markdown="1">
 
 **Utilizing health-related text on social media for depression research: themes and methods**
 
@@ -99,7 +102,8 @@ _Journal of Biomedical Informatics,2024_
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div style="width:100%;height:150px;overflow:hidden;"><div class="badge">IJMI 2024</div><img src='../images/multi-task.png' alt="sym" style="width:100%;height:100%;object-fit:cover;"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div style="width:100%;height:150px;overflow:hidden;"><div class="badge">IJMI 2024</div><img src='../images/multi-task.png' alt="sym" alt="sym" 
+style="width:100%; height:auto; object-fit:contain; max-height:150px;"></div></div><div class='paper-box-text' markdown="1">
 
 **Integrating multi-task and cost-sensitive learning for predicting mortality risk of chronic diseases in the elderly using real-world data**
 
