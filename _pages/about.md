@@ -20,7 +20,7 @@ redirect_from:
 # ⛄︎ About Me
 
 Hi! I am Yao Sumei, a doctoral candidate in Information Science at the School of Information Management, Wuhan University (Expected 2026).
-Most recently, I pursued joint research at ETH Zürich under the supervision of <a href="https://mte.ethz.ch/people/person-detail.html?persid=14938">Prof. Dr. Peter Egger</a>, <a href="https://www.susierao.com/">Dr. Susie Xi Rao</a> </a>. Before that, I have been conducting research at Wuhan University guided by <a href="https://im.whu.edu.cn/info/1015/1362.htm">Prof. Quan Lu</a>.
+Most recently, I pursued joint research at ETH Zürich under the supervision of <a href="https://mte.ethz.ch/people/person-detail.html?persid=14938">Prof. Dr. Peter Egger</a>, <a href="https://www.susierao.com/">Dr. Susie Xi Rao</a> . Before that, I have been conducting research at Wuhan University guided by <a href="https://im.whu.edu.cn/info/1015/1362.htm">Prof. Quan Lu</a>.
 
 My work has been published in numerous SSCI, SCI and CSSCI core journals, and I am currently a senior reviewer for a wide range of top-tier Springer Nature journals. Beyond research, I have won multiple national scholarships and academic awards throughout my studies.
 
