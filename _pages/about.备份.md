@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -34,13 +35,16 @@ My research interests include literature knowledge discovery, automated medical 
 </p>
 
 
+
 # 🔥 News
+
 - *2025.04*: &nbsp; *[Data and Knowledge Driven Knowledge Discovery: Concept, Mechanism and Model](https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2025.03.003)* is accepted to  *Journal of The China Society for Scientific and Technical Information*! 🎉
 - *2024.07*:  *[Enhancing identification performance of cognitive impairment high-risk based on a semi-supervised learning method](https://www.sciencedirect.com/science/article/pii/S1532046424001175)* is selected [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)!🎉
 - *2024.07*:  *[Integrating multi-task and cost-sensitive learning for predicting mortality risk of elderly chronic diseases](https://pubmed.ncbi.nlm.nih.gov/39068894/)* is accepted to [International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)!🎉
 - *2023.06*: *Utilizing health-related text on social media for depression research: themes and methods* is accepted by  *Library Hi Tech*🎉
 
 # 📝 Selected Publications 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="width:100%; height:120px; overflow:hidden;">
@@ -71,6 +75,7 @@ style="width:100%; height:auto; object-fit:contain; max-height:150px;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
+
 
 
 
@@ -123,6 +128,10 @@ International Journal of Medical Informatics
 
 Senior Reviewer for Springer Nature (2024-), undertaking review work for top international journals:
 
+- [Nature Medicine](https://www.nature.com/nmed/) (SCI Q1, CAS Q1, Top Journal, IF: 50.0, Invited Co-Review)
+- [Nature Methods](https://www.nature.com/nmeth/) (SCI Q1, CAS Q1, Top Journal, IF: 32.1)
+- [Nature Human Behaviour](https://www.nature.com/nhumbehav/) (SCI Q1, CAS Q1, Top Journal, IF: 15.9)
+- [Nature Communications](https://www.nature.com/ncomm/) (SCI Q1, CAS Q1, Top Journal, IF: 15.7)
 - [Artificial Intelligence Review](https://link.springer.com/journal/10462) (SCI Q1, CAS Q1, Top Journal, IF: 13.9)
 - [BMC Geriatrics](https://bmcgeriatr.biomedcentral.com/) (SCI/SSCI Q1, CAS Q2, Top Journal, IF: 3.9)
 - [Scientific Reports](https://www.nature.com/srep) (SCI Q1, CAS Q2, IF: 3.9)
@@ -174,6 +183,7 @@ Senior Reviewer for Springer Nature (2024-), undertaking review work for top int
   <div class="experience-text" markdown="1">
 
 
+
 ### Eidgenössische Technische Hochschule Zürich
 
 2024.04 - 2025.04  
@@ -192,7 +202,8 @@ Advisor: [Prof. Dr. Peter Egger](https://mtec.ethz.ch/people/person-detail.MTY2N
   <div class="experience-text" markdown="1">
 
 
-###  Wuhan University
+
+### Wuhan University
 
 2021.09 - 2026.06  
 
@@ -204,6 +215,7 @@ Advisor: [Prof. Quan Lu](https://sim.whu.edu.cn/info/1631/13987.htm)
 </div>
 
 # 🎖 Selected Honors and Awards
+
 - *2024* Second Prize, Wuhan University Academic Innovation Award.
 - *2021.04* Outstanding Graduate, Hebei Province.
 - *2021.01* Outstanding Graduate, YanShan University.
@@ -221,5 +233,5 @@ Apart from academic studies and research, I have a wide range of interests.
 
 - 💃 I love dancing Latin dance, **Rumba** especially, but only at an amateur level.
 - 💻 I enjoy developing interesting small software and writing them into software copyrights.
--  Besides, I like hiking 🚣and traveling✈︎, and the scenery of the Alps🏔 is always fascinating.
+- Besides, I like hiking 🚣and traveling✈︎, and the scenery of the Alps🏔 is always fascinating.
 
